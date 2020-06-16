@@ -8,7 +8,6 @@
 From project root type: 
 
 ```bash
-cargo new my-wasm --lib
 cd my-wasm
 wasm-pack build 
 ```
